@@ -6,7 +6,7 @@
 Welcome to SphinxPythonApp's documentation!
 ===========================================
 
-This is the Python app, made to teach Python to aspiring physics students.
+This is te Python app, made to teach Python to aspiring physics students.
 
 
 .. toctree::
